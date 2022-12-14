@@ -1,0 +1,3 @@
+czcionka: https://www.1001fonts.com/joystix-font.html
+muzyka: https://ncs.io/invincible
+efekt dzwiękowy: https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
